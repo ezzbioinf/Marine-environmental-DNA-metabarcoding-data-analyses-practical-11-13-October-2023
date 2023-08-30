@@ -1,4 +1,5 @@
 FROM gitpod/workspace-full:latest
+USER gitpod
 
 # Install Redis.
 RUN sudo apt-get update \
