@@ -1,4 +1,4 @@
-FROM gitpod/workspace-base
+FROM ubuntu:lunar
 
 RUN addgroup --gid 33333 gitpod
 
