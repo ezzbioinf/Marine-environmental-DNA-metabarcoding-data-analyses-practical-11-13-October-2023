@@ -5,6 +5,9 @@ RUN apt-get update && apt-get install -yq \
     git-lfs \
     sudo \
     sra-toolkit \
+    parallel \
+    fastqc \
+    cutadapt \
     && apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/*
 
 RUN addgroup --gid 33333 gitpod
