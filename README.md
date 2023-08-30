@@ -1,11 +1,15 @@
 # Marine environmental DNA metabarcoding data analyses practical, 11-13 October 2023
 
-## PROGRAMME
-1. Using DNA barcoding gene in marine conservation and in marine
-biodiversity monitoring and conservation ( Lecturers names)
-1.1. The DNA barcode: an introduction and Marine DNA barcoding's future (40 min).
-1.2. The advantages of DNA barcoding in marine environments (40 min).
-1.3. IAS (invasive alien species) and Toxic marine organisms' DNA barcoding (40 min).
+## Structure of the practical
+The practical will be divided up by days (1-3). We'll hold the 3rd day for the complete case study 
+
+Each day we will work towards our end goal of recapitulating the results of our chosen studies. But remember, our goal is to learn along the way, not to get to the end. I would instead we take our time on the journey that reaches the final results.
+
+One of the most essential skills in computation biology/informatics is the effective sourcing of reference material. I.e. good googling!
+
+As such throughout the 3/4 days, while you will be given a structure to follow, you will also be asked to work out how to do certain tasks on your own. But don't worry, the practical support team will be there to help you when you get stuck. Much of what you're asked to do will be new to you and may feel challenging - that's totally normal.
+
+If there are any requirements for the day's exercises these will be listed at the beginning of each day's section in a 'requirements' section. For example, some packages take a long time to install so it's best to do this setup in advance.Nile university staff will support the trainee with PC which all necessery software/tools were installed 
 1.4. Practical work (1h).
 1.4.1 BARCODE OF LIFE DATA SYSTEM, Retrieving and BIN Database (.....).
 1.4.2 Taxonomy (....).
