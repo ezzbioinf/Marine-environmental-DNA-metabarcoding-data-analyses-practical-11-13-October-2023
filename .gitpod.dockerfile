@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM gitpod:latest
 
 RUN apt-get update && apt-get install -yq \
     git \
