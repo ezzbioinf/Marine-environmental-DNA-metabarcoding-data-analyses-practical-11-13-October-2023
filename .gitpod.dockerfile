@@ -1,4 +1,4 @@
-FROM gitpod/workspace-base:latest
+FROM ubuntu:latest
 
 
 RUN addgroup --gid 33333 gitpod
