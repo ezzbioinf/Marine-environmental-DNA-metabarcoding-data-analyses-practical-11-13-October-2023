@@ -1,7 +1,7 @@
 FROM gitpod/workspace-full:latest
 
-RUN useradd -l -u 33333 -G sudo -md /home/gitpod -s /bin/bash -p gitpod gitpod
-
+addgroup --gid 33333 gitpod
+useradd --no-log-init --create-home --home-dir /home/gitpod --shell /bin/bash --uid 33333 --gid 33333 gitpod
 USER gitpod
 
 # Install Redis.
