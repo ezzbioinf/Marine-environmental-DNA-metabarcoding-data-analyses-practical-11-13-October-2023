@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -yq \
     parallel \
     fastqc \
     cutadapt \
-    && apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/*
+    && rm -rf /var/lib/apt/lists/* /tmp/*
 
 RUN addgroup --gid 33333 gitpod
 
