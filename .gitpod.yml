@@ -3,10 +3,14 @@ image: ubuntu
 tasks:
 - name: run
   command: |
-    sudo apt-get update
-    sudo apt-get install sra-toolkit \ 
+    apt-get update && apt-get install -yq \
+    git \
+    git-lfs \
+    sudo \
+    sra-toolkit \
     parallel \
     fastqc \
-    cutadapt \ 
+    cutadapt \
     curl \
-    ncbi-blast+ \ 
+    ncbi-blast+ \
+    && rm -rf /var/lib/apt/lists/* /tmp/*
