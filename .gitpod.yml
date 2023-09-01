@@ -3,7 +3,7 @@ image: gitpod/workspace-base
 tasks:
 - name: run
   command: |
-    apt-get update && apt-get install sra-toolkit \ 
+    sudo apt-get update && sudo apt-get install sra-toolkit \ 
     parallel \
     fastqc \
     cutadapt \ 
