@@ -3,9 +3,9 @@ image: gitpod/workspace-base
 tasks:
 - name: run
   command: |
-    sra-toolkit 
-    parallel 
-    fastqc 
-    cutadapt 
-    curl 
-    ncbi-blast+ 
+    apt-get update && apt-get install sra-toolkit \ 
+    parallel \
+    fastqc \
+    cutadapt \ 
+    curl \
+    ncbi-blast+ \ 
