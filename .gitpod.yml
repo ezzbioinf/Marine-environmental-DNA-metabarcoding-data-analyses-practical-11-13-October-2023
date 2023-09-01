@@ -1,4 +1,4 @@
-image: gitpod/ubuntu
+image: ubuntu
 
 tasks:
 - name: run
