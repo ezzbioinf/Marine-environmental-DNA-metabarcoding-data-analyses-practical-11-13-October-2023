@@ -1,4 +1,11 @@
-image:
-    file: .gitpod.dockerfile
+image: gitpod/workspace-base
+
 tasks:
-    - init: gp validate
+- name: run
+  command: |
+    sra-toolkit 
+    parallel 
+    fastqc 
+    cutadapt 
+    curl 
+    ncbi-blast+ 
