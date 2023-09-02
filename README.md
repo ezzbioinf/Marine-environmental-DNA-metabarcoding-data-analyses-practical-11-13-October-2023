@@ -9,10 +9,7 @@ One of the most essential skills in computation biology/informatics is the effec
 
 As such throughout the 3/4 days, while you will be given a structure to follow, you will also be asked to work out how to do certain tasks independently. But don't worry, the practical support team will be there to help you when you get stuck. Much of what you're asked to do will be new to you and may feel challenging - that's totally normal.
 
-NU staff will support the trainee with a computer in which all necessary software/tools were installed. However, you can install the required tools on your PC using [THIS](https://github.com/ezzbioinf/RFRE/wiki/eDNA-metabrcoding-utilizing-USEARCH-tool--%E2%80%90-Setup-Tools) guide. Moreover, a docker image based on this GitHub has been created, that you can start it on Gitpod using:
-````bash
-gitpod.io/#https://github.com/ezzbioinf/RFRE
-````
+NU staff will support the trainee with a computer in which all necessary software/tools were installed. However, you can install the required tools on your PC using [THIS]
 1.4. Practical work (1h).
 1.4.1 BARCODE OF LIFE DATA SYSTEM, Retrieving and BIN Database (.....).
 1.4.2 Taxonomy (....).
