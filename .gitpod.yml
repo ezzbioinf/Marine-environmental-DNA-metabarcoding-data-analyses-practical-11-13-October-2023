@@ -1,4 +1,4 @@
-image: ubuntu:lunar
+image: gitpod/workspace-full:jammy
 
 tasks:
 - name: run
