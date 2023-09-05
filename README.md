@@ -14,7 +14,7 @@ NU staff will support the trainee with a computer in which all necessary softwar
 
 1.4. Practical work (1h).
 
-1.4.1 BARCODE OF LIFE DATA SYSTEM, Retrieving and BIN Database (.....).
+1.4.1 [BARCODE OF LIFE DATA SYSTEM, Retrieving and BIN Database](https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023/wiki/DNA-Barcoding-analysis-workflow#14-barcode-of-life-data-system).
 
 1.4.2 Taxonomy (....).
 
