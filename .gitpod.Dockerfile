@@ -1,3 +1,3 @@
-FROM  gitpod/debian
+FROM  debian:latest
 
 
