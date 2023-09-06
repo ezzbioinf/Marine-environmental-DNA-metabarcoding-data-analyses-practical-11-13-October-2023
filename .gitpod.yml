@@ -1,4 +1,5 @@
-image: debian
+image: gitpod/workspace-base
+
 
 tasks:
 - name: run
