@@ -18,7 +18,7 @@ Therefore, you MUST do the following steps before completing this form to make s
 
 It will take a few minutes each to set up a GitHub account and to set up a GITPOD account:
 
-1. Click on this [LINK](https://gitpod.io/#[https://github.com/bgacademy23/test](https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023) in any desktop web browser (Note: Chrome seems to work better than Safari on a Mac desktop)
+1. Click on this [LINK](https://gitpod.io/#https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023) in any desktop web browser (Note: Chrome seems to work better than Safari on a Mac desktop)
 
 2. It will ask you to sign up with a GitHub account. If you don't have one, please get one at https://github.com/
 
