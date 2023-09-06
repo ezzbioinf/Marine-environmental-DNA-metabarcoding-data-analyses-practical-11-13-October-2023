@@ -1,4 +1,4 @@
-FROM  32bit/ubuntu
+FROM  32bit/ubuntu:16.04
 
 
 RUN apt-get update && apt-get install -yq \
