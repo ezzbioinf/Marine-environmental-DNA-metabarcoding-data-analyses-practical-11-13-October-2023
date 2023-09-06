@@ -1,2 +1,7 @@
 image:
     file: .gitpod.Dockerfile
+tasks:
+- name: Trim_Galore
+  command: |
+    curl -fsSL https://github.com/FelixKrueger/TrimGalore/archive/0.6.10.tar.gz -o trim_galore.tar.gz
+    tar xvzf trim_galore.tar.gz
