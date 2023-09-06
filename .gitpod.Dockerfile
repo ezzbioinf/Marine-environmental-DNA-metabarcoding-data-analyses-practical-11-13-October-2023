@@ -1,8 +1,7 @@
 FROM  debian:latest
 
 
-RUN sudo apt-get update
-    sudo apt-get install -yq \
+RUN apt-get update && apt-get install -yq \
     git \
     git-lfs \
     sudo \
@@ -12,4 +11,4 @@ RUN sudo apt-get update
     cutadapt \
     curl \
     ncbi-blast+ \
-    && sudo rm -rf /var/lib/apt/lists/* /tmp/*
+    && rm -rf /var/lib/apt/lists/* /tmp/*
