@@ -1,1 +1,3 @@
-.gitpod.Dockerfile
+FROM  gitpod/debian
+
+
