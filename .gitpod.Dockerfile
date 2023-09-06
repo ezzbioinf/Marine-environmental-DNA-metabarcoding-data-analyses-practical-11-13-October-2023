@@ -1,4 +1,4 @@
-FROM  ubuntu:latest
+FROM  32bit/ubuntu
 
 
 RUN apt-get update && apt-get install -yq \
