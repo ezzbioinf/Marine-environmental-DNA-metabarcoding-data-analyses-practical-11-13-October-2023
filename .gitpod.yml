@@ -5,3 +5,6 @@ tasks:
   command: |
     curl -fsSL https://github.com/FelixKrueger/TrimGalore/archive/0.6.10.tar.gz -o trim_galore.tar.gz
     tar xvzf trim_galore.tar.gz
+- name: usearch
+  command: |
+     chmod a+x usearch
