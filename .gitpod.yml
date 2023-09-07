@@ -15,10 +15,10 @@ tasks:
     ncbi-blast+ \
     && rm -rf /var/lib/apt/lists/* /tmp/*
 -name: Trim_Galore
- command: |
+   command: |
     curl -fsSL https://github.com/FelixKrueger/TrimGalore/archive/0.6.10.tar.gz -o trim_galore.tar.gz
     tar xvzf trim_galore.tar.gz
 -name: usearch
-  command: |
+   command: |
     chmod a+x usearch
 
