@@ -9,5 +9,3 @@ tasks:
 - name: USEARCH
   command: |
     curl -fsSL https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023/blob/master/usearch -o usearch
-    chmod a+x usearch
-    sudo mv usearch /usr/local/bin/
