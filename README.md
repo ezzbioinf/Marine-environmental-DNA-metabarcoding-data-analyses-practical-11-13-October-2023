@@ -46,8 +46,4 @@ Last but not least, Here are links to tutorial hand-outs for each practical sess
 - [Environmental DNA (eDNA) data analyses, MiFish Pipeline, pactical session, 2.6. (1h)](https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023/wiki/eDNA-metabrcoding-analysis-workflows#mifish-workflow).
 
 
-3. Metabarcoding taxonomic assignment.
-
-3.1 Practical work (1h)
-
-3.1.1 Metabarcoding taxonomic assignment on files of Fish environmental DNA (eDNA).
+3. [Metabarcoding taxonomic assignment of Fish environmental DNA (eDNA), practical session, 3.1. (1h)](https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023/wiki/eDNA-metabrcoding-analysis-workflows#31-metabarcoding-taxonomic-assignment).
