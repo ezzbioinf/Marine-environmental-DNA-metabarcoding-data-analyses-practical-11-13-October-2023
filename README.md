@@ -14,7 +14,7 @@ these guides for [DNA Barcoding analysis](https://github.com/ezzbioinf/Marine-en
 
 Moreover, you can use https://gitpod.io for the command-line tasks in that practical. GITPOD allows you to launch and enter Virtual Machines from your browser and gives you 50 free hours per calendar month, enough for these sessions.
 
-Therefore, you MUST do the following steps before completing this form to make sure you can start a GITPOD workspace.
+Therefore, you MUST do the following steps before completing this form to ensure you can start a GITPOD workspace.
 
 It will take a few minutes each to set up a GitHub account and to set up a GITPOD account:
 
@@ -22,7 +22,7 @@ It will take a few minutes each to set up a GitHub account and to set up a GITPO
 
 2. It will ask you to sign up with a GitHub account. If you don't have one, please get one at https://github.com/
 
-3. Once you are signed in to GitHub.com - click on the gitpod.io link above again. It will try to launch a GITPOD workspace using your GitHub login. You can give GITPOD permission to access your GitHub account - it's safe and only asks for email info. Follow the GITPOD prompts to ensure you are a real human and won't misuse their resources. When it asks you to connect your LinkedIn, you can skip that - you will still get 50 hours :-)
+3. Once you are signed in to GitHub.com, click the gitpod.io link above again. It will try to launch a GITPOD workspace using your GitHub login. You can give GITPOD permission to access your GitHub account - it's safe and only asks for email info. Follow the GITPOD prompts to ensure you are a real human and won't misuse their resources. When it asks you to connect your LinkedIn, you can skip that - you will still get 50 hours :-)
 
 4. GITPOD will ask you to select which code editor and which machine size to start. The defaults are fine.
 
@@ -30,55 +30,21 @@ It will take a few minutes each to set up a GitHub account and to set up a GITPO
 
 After you've done this, go to gitpod.io/workspaces to delete any running workspaces (in green) so that you don't waste your 50 hours per month :-)
 
-1.4. Practical work (1h).
+Last but not least, Here are links to tutorial hand-outs for each practical session, Enjoy training. 
 
-1.4.1 [BARCODE OF LIFE DATA SYSTEM, Retrieving and BIN Database](https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023/wiki/DNA-Barcoding-analysis-workflow#14-barcode-of-life-data-system).
 
-1.4.2 Taxonomy.
+- [Barcode of Life Data Sysytem, practical session, 1.4. (1h)](https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023/wiki/DNA-Barcoding-analysis-workflow#14-barcode-of-life-data-system).
 
-1.4.3 Barcode Gap Summary.
 
-1.5. Practical work (2h).
+- [Check for uniqueness and quality of DNA barcoding sequence, practical session, 1.5. (2h)](https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023/wiki/DNA-Barcoding-analysis-workflow#15-check-for-uniqueness-and-quality-of-dna-barcoding-sequences).
 
-1.5.1 Check for uniqueness and quality of DNA barcoding sequences.
+- [Phylogenetic Analysis, practical session, 1.6. (1h)](https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023/wiki/DNA-Barcoding-analysis-workflow#16-phylogenetic-analysis).
 
-1.5.2 The most common sequence editing problems.
 
-1.5.3 Learning to handle the Sequences and utilizing tools of quality control.
+- [Environmental DNA (eDNA) data analyses, USEARCH Pipeline practical session, 2.5. (3h)](https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023/wiki/eDNA-metabrcoding-analysis-workflows#usearch-workflow).
 
-1.5.4 GenBank Submission Troubleshooting: Coding Region Annotation.
+- [Environmental DNA (eDNA) data analyses, MiFish Pipeline, pactical session, 2.6. (1h)](https://github.com/ezzbioinf/Marine-environmental-DNA-metabarcoding-data-analyses-practical-11-13-October-2023/wiki/eDNA-metabrcoding-analysis-workflows#mifish-workflow).
 
-1.6. Practical work (1h).
-
-1.6.1 Phylogenetic Analysis Steps.
-
-1.6.2 Character-Based Methods, Distance-Based Methods.
-
-1.6.3 Substitution Models and Bootstrap test of Phylogeny.
-
-2.5. Practical work (3h).
-
-2.5.1 Checking the quality of the FASTQ and trimming the tail.
-
-2.5.2 Assembly of paired-end reads.
-
-2.5.3 Filtering for length and quality.
-
-2.5.4 Pooling and dereplication.
-
-2.5.6 OTU clustering.
-
-2.5.7 Denoising.
-
-2.5.8 Chimera removal.
-
-2.5.9 Remapping.
-
-2.6. Practical work (1h).
-
-2.6.1 MiFish Pipeline.
-
-2.6.2 Graphical user interface methods for analyzing metabarcoding data.
 
 3. Metabarcoding taxonomic assignment.
 
